@@ -56,6 +56,15 @@ Python 3.9+ (standard library only). There is intentionally no `requirements.txt
 
 ## Usage
 
+Two runnable example accounts ship in [`examples/`](examples/) — a synthetic
+bot-like account and a human-like one — so you can see the output before
+collecting your own data:
+
+```bash
+python3 -m loopwatch score examples/bot_account.json
+python3 -m loopwatch score examples/human_account.json
+```
+
 Score a single account's collected posts:
 
 ```bash

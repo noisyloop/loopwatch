@@ -1,0 +1,2711 @@
+{
+  "handle": "example_handle",
+  "collected_at": "2025-12-17T18:43:00Z",
+  "account": {
+    "followers": 1840,
+    "following": 51,
+    "created_at": "2025-11-03T09:00:00Z"
+  },
+  "posts": [
+    {
+      "id": "p_0001",
+      "timestamp": "2025-11-03T15:54:00Z",
+      "text": "Great point \u2014 the key thing here is signal, not noise.",
+      "is_reply": true,
+      "in_reply_to": "u_141",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0002",
+      "timestamp": "2025-11-04T00:42:00Z",
+      "text": "Absolutely agree \u2014 the fundamentals matter more than the hype.",
+      "is_reply": true,
+      "in_reply_to": "u_53",
+      "likes": 2,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0003",
+      "timestamp": "2025-11-04T15:00:00Z",
+      "text": "This is exactly right. Worth amplifying for the community.",
+      "is_reply": true,
+      "in_reply_to": "u_217",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0004",
+      "timestamp": "2025-11-04T20:30:00Z",
+      "text": "This is exactly right. Worth amplifying for the community.",
+      "is_reply": true,
+      "in_reply_to": "u_112",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0005",
+      "timestamp": "2025-11-05T10:07:00Z",
+      "text": "Great point \u2014 the key thing here is signal, not noise.",
+      "is_reply": true,
+      "in_reply_to": "u_288",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0006",
+      "timestamp": "2025-11-06T00:25:00Z",
+      "text": "Spot on. The best builders ship and iterate relentlessly.",
+      "is_reply": true,
+      "in_reply_to": "u_113",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0007",
+      "timestamp": "2025-11-06T10:09:00Z",
+      "text": "Great point \u2014 the key thing here is signal, not noise.",
+      "is_reply": true,
+      "in_reply_to": "u_82",
+      "likes": 2,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0008",
+      "timestamp": "2025-11-06T22:21:00Z",
+      "text": "Love this framing. Clarity is underrated in this space.",
+      "is_reply": true,
+      "in_reply_to": "u_143",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0009",
+      "timestamp": "2025-11-07T07:01:00Z",
+      "text": "Love this framing. Clarity is underrated in this space.",
+      "is_reply": true,
+      "in_reply_to": "u_53",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0010",
+      "timestamp": "2025-11-07T18:30:00Z",
+      "text": "This is exactly right. Worth amplifying for the community.",
+      "is_reply": true,
+      "in_reply_to": "u_184",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0011",
+      "timestamp": "2025-11-08T04:00:00Z",
+      "text": "Great point \u2014 the key thing here is signal, not noise.",
+      "is_reply": true,
+      "in_reply_to": "u_236",
+      "likes": 2,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0012",
+      "timestamp": "2025-11-08T11:07:00Z",
+      "text": "Spot on. The best builders ship and iterate relentlessly.",
+      "is_reply": true,
+      "in_reply_to": "u_41",
+      "likes": 2,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0013",
+      "timestamp": "2025-11-08T21:07:00Z",
+      "text": "Love this framing. Clarity is underrated in this space.",
+      "is_reply": true,
+      "in_reply_to": "u_296",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0014",
+      "timestamp": "2025-11-09T03:18:00Z",
+      "text": "Great point \u2014 the key thing here is signal, not noise.",
+      "is_reply": true,
+      "in_reply_to": "u_117",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0015",
+      "timestamp": "2025-11-09T09:39:00Z",
+      "text": "Strong take. The data backs this up across the board.",
+      "is_reply": true,
+      "in_reply_to": "u_52",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0016",
+      "timestamp": "2025-11-09T19:23:00Z",
+      "text": "Yes \u2014 focus compounds. Distraction is the silent killer.",
+      "is_reply": true,
+      "in_reply_to": "u_187",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0017",
+      "timestamp": "2025-11-10T06:42:00Z",
+      "text": "Love this framing. Clarity is underrated in this space.",
+      "is_reply": true,
+      "in_reply_to": "u_108",
+      "likes": 2,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0018",
+      "timestamp": "2025-11-10T16:15:00Z",
+      "text": "This is exactly right. Worth amplifying for the community.",
+      "is_reply": true,
+      "in_reply_to": "u_88",
+      "likes": 2,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0019",
+      "timestamp": "2025-11-11T01:25:00Z",
+      "text": "Absolutely agree \u2014 the fundamentals matter more than the hype.",
+      "is_reply": true,
+      "in_reply_to": "u_237",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0020",
+      "timestamp": "2025-11-11T11:01:00Z",
+      "text": "Strong take. The data backs this up across the board.",
+      "is_reply": true,
+      "in_reply_to": "u_167",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0021",
+      "timestamp": "2025-11-11T19:55:00Z",
+      "text": "Great point \u2014 the key thing here is signal, not noise.",
+      "is_reply": true,
+      "in_reply_to": "u_162",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0022",
+      "timestamp": "2025-11-12T05:29:00Z",
+      "text": "This is exactly right. Worth amplifying for the community.",
+      "is_reply": true,
+      "in_reply_to": "u_109",
+      "likes": 2,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0023",
+      "timestamp": "2025-11-12T15:51:00Z",
+      "text": "Strong take. The data backs this up across the board.",
+      "is_reply": true,
+      "in_reply_to": "u_256",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0024",
+      "timestamp": "2025-11-13T04:40:00Z",
+      "text": "Absolutely agree \u2014 the fundamentals matter more than the hype.",
+      "is_reply": true,
+      "in_reply_to": "u_136",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0025",
+      "timestamp": "2025-11-13T13:52:00Z",
+      "text": "Couldn't have said it better \u2014 execution beats ideation every time.",
+      "is_reply": true,
+      "in_reply_to": "u_300",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0026",
+      "timestamp": "2025-11-14T04:49:00Z",
+      "text": "Spot on. The best builders ship and iterate relentlessly.",
+      "is_reply": true,
+      "in_reply_to": "u_186",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0027",
+      "timestamp": "2025-11-14T12:10:00Z",
+      "text": "Yes \u2014 focus compounds. Distraction is the silent killer.",
+      "is_reply": true,
+      "in_reply_to": "u_47",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0028",
+      "timestamp": "2025-11-14T19:02:00Z",
+      "text": "Absolutely agree \u2014 the fundamentals matter more than the hype.",
+      "is_reply": true,
+      "in_reply_to": "u_82",
+      "likes": 2,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0029",
+      "timestamp": "2025-11-15T07:14:00Z",
+      "text": "This is exactly right. Worth amplifying for the community.",
+      "is_reply": true,
+      "in_reply_to": "u_198",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0030",
+      "timestamp": "2025-11-15T20:13:00Z",
+      "text": "Couldn't have said it better \u2014 execution beats ideation every time.",
+      "is_reply": true,
+      "in_reply_to": "u_284",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0031",
+      "timestamp": "2025-11-16T03:10:00Z",
+      "text": "Couldn't have said it better \u2014 execution beats ideation every time.",
+      "is_reply": true,
+      "in_reply_to": "u_175",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0032",
+      "timestamp": "2025-11-16T13:10:00Z",
+      "text": "Spot on. The best builders ship and iterate relentlessly.",
+      "is_reply": true,
+      "in_reply_to": "u_81",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0033",
+      "timestamp": "2025-11-16T18:13:00Z",
+      "text": "Couldn't have said it better \u2014 execution beats ideation every time.",
+      "is_reply": true,
+      "in_reply_to": "u_257",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0034",
+      "timestamp": "2025-11-17T07:52:00Z",
+      "text": "This is exactly right. Worth amplifying for the community.",
+      "is_reply": true,
+      "in_reply_to": "u_153",
+      "likes": 2,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0035",
+      "timestamp": "2025-11-17T21:31:00Z",
+      "text": "Strong take. The data backs this up across the board.",
+      "is_reply": true,
+      "in_reply_to": "u_79",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0036",
+      "timestamp": "2025-11-18T05:16:00Z",
+      "text": "Great point \u2014 the key thing here is signal, not noise.",
+      "is_reply": true,
+      "in_reply_to": "u_166",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0037",
+      "timestamp": "2025-11-18T10:35:00Z",
+      "text": "This is exactly right. Worth amplifying for the community.",
+      "is_reply": true,
+      "in_reply_to": "u_186",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0038",
+      "timestamp": "2025-11-18T19:40:00Z",
+      "text": "Great point \u2014 the key thing here is signal, not noise.",
+      "is_reply": true,
+      "in_reply_to": "u_124",
+      "likes": 2,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0039",
+      "timestamp": "2025-11-19T02:00:00Z",
+      "text": "This is exactly right. Worth amplifying for the community.",
+      "is_reply": true,
+      "in_reply_to": "u_249",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0040",
+      "timestamp": "2025-11-19T16:05:00Z",
+      "text": "Absolutely agree \u2014 the fundamentals matter more than the hype.",
+      "is_reply": true,
+      "in_reply_to": "u_66",
+      "likes": 2,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0041",
+      "timestamp": "2025-11-20T05:11:00Z",
+      "text": "Absolutely agree \u2014 the fundamentals matter more than the hype.",
+      "is_reply": true,
+      "in_reply_to": "u_136",
+      "likes": 2,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0042",
+      "timestamp": "2025-11-20T17:24:00Z",
+      "text": "Strong take. The data backs this up across the board.",
+      "is_reply": true,
+      "in_reply_to": "u_277",
+      "likes": 2,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0043",
+      "timestamp": "2025-11-21T01:49:00Z",
+      "text": "Couldn't have said it better \u2014 execution beats ideation every time.",
+      "is_reply": true,
+      "in_reply_to": "u_205",
+      "likes": 2,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0044",
+      "timestamp": "2025-11-21T13:11:00Z",
+      "text": "Yes \u2014 focus compounds. Distraction is the silent killer.",
+      "is_reply": true,
+      "in_reply_to": "u_265",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0045",
+      "timestamp": "2025-11-21T20:14:00Z",
+      "text": "Strong take. The data backs this up across the board.",
+      "is_reply": true,
+      "in_reply_to": "u_116",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0046",
+      "timestamp": "2025-11-22T07:00:00Z",
+      "text": "Great point \u2014 the key thing here is signal, not noise.",
+      "is_reply": true,
+      "in_reply_to": "u_284",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0047",
+      "timestamp": "2025-11-22T15:45:00Z",
+      "text": "Great point \u2014 the key thing here is signal, not noise.",
+      "is_reply": true,
+      "in_reply_to": "u_37",
+      "likes": 2,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0048",
+      "timestamp": "2025-11-22T21:45:00Z",
+      "text": "Strong take. The data backs this up across the board.",
+      "is_reply": true,
+      "in_reply_to": "u_35",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0049",
+      "timestamp": "2025-11-23T08:23:00Z",
+      "text": "This is exactly right. Worth amplifying for the community.",
+      "is_reply": true,
+      "in_reply_to": "u_264",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0050",
+      "timestamp": "2025-11-23T18:08:00Z",
+      "text": "Yes \u2014 focus compounds. Distraction is the silent killer.",
+      "is_reply": true,
+      "in_reply_to": "u_110",
+      "likes": 2,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0051",
+      "timestamp": "2025-11-24T01:23:00Z",
+      "text": "Yes \u2014 focus compounds. Distraction is the silent killer.",
+      "is_reply": true,
+      "in_reply_to": "u_125",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0052",
+      "timestamp": "2025-11-24T13:19:00Z",
+      "text": "Strong take. The data backs this up across the board.",
+      "is_reply": true,
+      "in_reply_to": "u_49",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0053",
+      "timestamp": "2025-11-25T01:40:00Z",
+      "text": "Love this framing. Clarity is underrated in this space.",
+      "is_reply": true,
+      "in_reply_to": "u_217",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0054",
+      "timestamp": "2025-11-25T14:38:00Z",
+      "text": "Great point \u2014 the key thing here is signal, not noise.",
+      "is_reply": true,
+      "in_reply_to": "u_51",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0055",
+      "timestamp": "2025-11-26T02:30:00Z",
+      "text": "Love this framing. Clarity is underrated in this space.",
+      "is_reply": true,
+      "in_reply_to": "u_56",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0056",
+      "timestamp": "2025-11-26T10:46:00Z",
+      "text": "Strong take. The data backs this up across the board.",
+      "is_reply": true,
+      "in_reply_to": "u_275",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0057",
+      "timestamp": "2025-11-26T18:09:00Z",
+      "text": "Spot on. The best builders ship and iterate relentlessly.",
+      "is_reply": true,
+      "in_reply_to": "u_94",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0058",
+      "timestamp": "2025-11-27T07:02:00Z",
+      "text": "Strong take. The data backs this up across the board.",
+      "is_reply": true,
+      "in_reply_to": "u_39",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0059",
+      "timestamp": "2025-11-27T21:25:00Z",
+      "text": "This is exactly right. Worth amplifying for the community.",
+      "is_reply": true,
+      "in_reply_to": "u_26",
+      "likes": 2,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0060",
+      "timestamp": "2025-11-28T11:38:00Z",
+      "text": "Great point \u2014 the key thing here is signal, not noise.",
+      "is_reply": true,
+      "in_reply_to": "u_48",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal",
+        "noise"
+      ]
+    },
+    {
+      "id": "p_0061",
+      "timestamp": "2025-11-29T05:41:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_249",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0062",
+      "timestamp": "2025-11-29T05:44:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_31",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0063",
+      "timestamp": "2025-11-29T05:49:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_200",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0064",
+      "timestamp": "2025-11-29T05:54:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_217",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0065",
+      "timestamp": "2025-11-29T05:57:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_152",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0066",
+      "timestamp": "2025-11-29T05:59:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_278",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0067",
+      "timestamp": "2025-11-29T06:03:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_26",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0068",
+      "timestamp": "2025-11-29T06:09:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_81",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0069",
+      "timestamp": "2025-11-29T06:15:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_96",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0070",
+      "timestamp": "2025-11-29T06:21:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_121",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0071",
+      "timestamp": "2025-11-29T06:23:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_127",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0072",
+      "timestamp": "2025-11-29T06:29:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_215",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0073",
+      "timestamp": "2025-11-29T06:33:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_161",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0074",
+      "timestamp": "2025-11-29T06:37:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_68",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0075",
+      "timestamp": "2025-11-29T06:42:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_38",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0076",
+      "timestamp": "2025-11-29T06:47:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_289",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0077",
+      "timestamp": "2025-11-29T06:49:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_110",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0078",
+      "timestamp": "2025-11-29T06:52:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_36",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0079",
+      "timestamp": "2025-11-29T06:56:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_81",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0080",
+      "timestamp": "2025-11-29T07:02:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_271",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0081",
+      "timestamp": "2025-11-29T07:08:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_54",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0082",
+      "timestamp": "2025-11-29T07:12:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_55",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0083",
+      "timestamp": "2025-11-29T07:16:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_108",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0084",
+      "timestamp": "2025-11-29T07:19:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_259",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0085",
+      "timestamp": "2025-11-29T07:23:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_48",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0086",
+      "timestamp": "2025-11-29T07:27:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_2",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0087",
+      "timestamp": "2025-11-29T07:30:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_83",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0088",
+      "timestamp": "2025-11-29T07:36:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_288",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0089",
+      "timestamp": "2025-11-29T07:38:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_77",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0090",
+      "timestamp": "2025-11-29T07:42:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_283",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0091",
+      "timestamp": "2025-11-29T07:47:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_22",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0092",
+      "timestamp": "2025-11-29T07:51:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_184",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0093",
+      "timestamp": "2025-11-29T07:54:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_182",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0094",
+      "timestamp": "2025-11-29T08:00:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_122",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0095",
+      "timestamp": "2025-11-29T08:03:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_13",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0096",
+      "timestamp": "2025-11-29T08:07:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_128",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0097",
+      "timestamp": "2025-11-29T08:10:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_196",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0098",
+      "timestamp": "2025-11-29T08:15:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_103",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0099",
+      "timestamp": "2025-11-29T08:19:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_117",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0100",
+      "timestamp": "2025-11-29T08:21:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_205",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0101",
+      "timestamp": "2025-11-29T11:58:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_143",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0102",
+      "timestamp": "2025-11-29T15:50:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_275",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0103",
+      "timestamp": "2025-11-29T19:11:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_134",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0104",
+      "timestamp": "2025-11-29T23:08:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_20",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0105",
+      "timestamp": "2025-11-30T03:06:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_177",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0106",
+      "timestamp": "2025-11-30T06:53:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_262",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0107",
+      "timestamp": "2025-11-30T10:37:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_98",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0108",
+      "timestamp": "2025-11-30T13:59:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_1",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0109",
+      "timestamp": "2025-11-30T17:42:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_36",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0110",
+      "timestamp": "2025-11-30T21:41:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_64",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0111",
+      "timestamp": "2025-12-01T01:33:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_210",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0112",
+      "timestamp": "2025-12-01T05:18:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_284",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0113",
+      "timestamp": "2025-12-01T08:50:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_195",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0114",
+      "timestamp": "2025-12-01T12:49:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_155",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0115",
+      "timestamp": "2025-12-01T16:44:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_156",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0116",
+      "timestamp": "2025-12-01T20:17:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_297",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0117",
+      "timestamp": "2025-12-02T00:06:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_227",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0118",
+      "timestamp": "2025-12-02T03:58:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_87",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0119",
+      "timestamp": "2025-12-02T07:36:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_172",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0120",
+      "timestamp": "2025-12-02T11:11:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_116",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0121",
+      "timestamp": "2025-12-02T14:40:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_24",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0122",
+      "timestamp": "2025-12-02T18:30:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_38",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0123",
+      "timestamp": "2025-12-02T22:16:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_100",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0124",
+      "timestamp": "2025-12-03T02:07:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_125",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0125",
+      "timestamp": "2025-12-03T05:27:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_218",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0126",
+      "timestamp": "2025-12-03T08:58:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_238",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0127",
+      "timestamp": "2025-12-03T12:53:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_63",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0128",
+      "timestamp": "2025-12-03T16:21:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_272",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0129",
+      "timestamp": "2025-12-03T20:09:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_259",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0130",
+      "timestamp": "2025-12-04T00:04:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_82",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0131",
+      "timestamp": "2025-12-04T03:52:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_127",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0132",
+      "timestamp": "2025-12-04T07:45:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_123",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0133",
+      "timestamp": "2025-12-04T11:33:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_147",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0134",
+      "timestamp": "2025-12-04T15:10:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_164",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0135",
+      "timestamp": "2025-12-04T18:38:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_119",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0136",
+      "timestamp": "2025-12-04T22:07:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_33",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0137",
+      "timestamp": "2025-12-05T01:53:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_278",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0138",
+      "timestamp": "2025-12-05T05:39:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_106",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0139",
+      "timestamp": "2025-12-05T09:23:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_11",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0140",
+      "timestamp": "2025-12-05T13:13:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_181",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0141",
+      "timestamp": "2025-12-05T16:57:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_276",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0142",
+      "timestamp": "2025-12-05T20:48:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_140",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0143",
+      "timestamp": "2025-12-06T00:39:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_200",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0144",
+      "timestamp": "2025-12-06T04:24:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_240",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0145",
+      "timestamp": "2025-12-06T08:23:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_14",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0146",
+      "timestamp": "2025-12-06T12:20:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_14",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0147",
+      "timestamp": "2025-12-06T16:07:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_237",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0148",
+      "timestamp": "2025-12-06T19:30:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_195",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0149",
+      "timestamp": "2025-12-06T23:03:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_168",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0150",
+      "timestamp": "2025-12-07T02:47:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_216",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0151",
+      "timestamp": "2025-12-07T06:12:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_10",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0152",
+      "timestamp": "2025-12-07T09:54:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_36",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0153",
+      "timestamp": "2025-12-07T13:15:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_103",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0154",
+      "timestamp": "2025-12-07T17:14:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_123",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0155",
+      "timestamp": "2025-12-07T21:04:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_289",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0156",
+      "timestamp": "2025-12-08T00:53:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_189",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0157",
+      "timestamp": "2025-12-08T04:51:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_59",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0158",
+      "timestamp": "2025-12-08T08:30:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_297",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0159",
+      "timestamp": "2025-12-08T12:09:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_193",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0160",
+      "timestamp": "2025-12-08T15:41:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_125",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0161",
+      "timestamp": "2025-12-08T19:20:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_62",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0162",
+      "timestamp": "2025-12-08T23:02:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_220",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0163",
+      "timestamp": "2025-12-09T02:26:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_175",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0164",
+      "timestamp": "2025-12-09T06:12:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_55",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0165",
+      "timestamp": "2025-12-09T09:55:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_79",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0166",
+      "timestamp": "2025-12-09T13:26:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_139",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0167",
+      "timestamp": "2025-12-09T17:15:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_138",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0168",
+      "timestamp": "2025-12-09T20:50:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_143",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0169",
+      "timestamp": "2025-12-10T00:25:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_292",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0170",
+      "timestamp": "2025-12-10T04:06:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_254",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0171",
+      "timestamp": "2025-12-10T07:37:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_109",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0172",
+      "timestamp": "2025-12-10T11:13:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_144",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0173",
+      "timestamp": "2025-12-10T15:08:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_265",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0174",
+      "timestamp": "2025-12-10T18:33:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_209",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0175",
+      "timestamp": "2025-12-10T22:28:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_244",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0176",
+      "timestamp": "2025-12-11T02:16:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_48",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0177",
+      "timestamp": "2025-12-11T05:50:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_125",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0178",
+      "timestamp": "2025-12-11T09:47:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_243",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0179",
+      "timestamp": "2025-12-11T13:34:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_170",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0180",
+      "timestamp": "2025-12-11T17:23:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_157",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0181",
+      "timestamp": "2025-12-11T20:57:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_99",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0182",
+      "timestamp": "2025-12-12T00:24:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_95",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0183",
+      "timestamp": "2025-12-12T03:57:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_142",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0184",
+      "timestamp": "2025-12-12T07:23:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_152",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0185",
+      "timestamp": "2025-12-12T11:06:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_155",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0186",
+      "timestamp": "2025-12-12T15:00:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_141",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0187",
+      "timestamp": "2025-12-12T18:23:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_150",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0188",
+      "timestamp": "2025-12-12T22:23:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_53",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0189",
+      "timestamp": "2025-12-13T02:19:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_241",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0190",
+      "timestamp": "2025-12-13T06:07:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_95",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0191",
+      "timestamp": "2025-12-13T09:43:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_59",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0192",
+      "timestamp": "2025-12-13T13:28:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_38",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0193",
+      "timestamp": "2025-12-13T16:57:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_289",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0194",
+      "timestamp": "2025-12-13T20:22:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_61",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0195",
+      "timestamp": "2025-12-14T00:20:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_116",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0196",
+      "timestamp": "2025-12-14T04:08:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_153",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0197",
+      "timestamp": "2025-12-14T07:47:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_31",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0198",
+      "timestamp": "2025-12-14T11:20:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_136",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0199",
+      "timestamp": "2025-12-14T14:50:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_89",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0200",
+      "timestamp": "2025-12-14T18:20:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_210",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0201",
+      "timestamp": "2025-12-14T22:18:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_150",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0202",
+      "timestamp": "2025-12-15T01:52:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_145",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0203",
+      "timestamp": "2025-12-15T05:16:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_136",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0204",
+      "timestamp": "2025-12-15T09:03:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_279",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0205",
+      "timestamp": "2025-12-15T12:32:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_73",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0206",
+      "timestamp": "2025-12-15T15:55:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_158",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0207",
+      "timestamp": "2025-12-15T19:43:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_240",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0208",
+      "timestamp": "2025-12-15T23:28:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_257",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0209",
+      "timestamp": "2025-12-16T03:16:00Z",
+      "text": "Great point \u2014 signal over noise, always.",
+      "is_reply": true,
+      "in_reply_to": "u_21",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0210",
+      "timestamp": "2025-12-16T06:56:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_129",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0211",
+      "timestamp": "2025-12-16T10:21:00Z",
+      "text": "Exactly right \u2014 signal, not noise. Amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_295",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0212",
+      "timestamp": "2025-12-16T13:58:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_21",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0213",
+      "timestamp": "2025-12-16T17:48:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_227",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0214",
+      "timestamp": "2025-12-16T21:19:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_224",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0215",
+      "timestamp": "2025-12-17T00:44:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_179",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0216",
+      "timestamp": "2025-12-17T04:25:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_54",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0217",
+      "timestamp": "2025-12-17T08:06:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_254",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0218",
+      "timestamp": "2025-12-17T11:51:00Z",
+      "text": "Agree completely \u2014 pure signal. Worth amplifying.",
+      "is_reply": true,
+      "in_reply_to": "u_19",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0219",
+      "timestamp": "2025-12-17T15:16:00Z",
+      "text": "Strong signal here \u2014 the fundamentals win.",
+      "is_reply": true,
+      "in_reply_to": "u_130",
+      "likes": 1,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    },
+    {
+      "id": "p_0220",
+      "timestamp": "2025-12-17T18:43:00Z",
+      "text": "Signal not noise \u2014 this is the way.",
+      "is_reply": true,
+      "in_reply_to": "u_264",
+      "likes": 0,
+      "reposts": 0,
+      "keywords_targeted": [
+        "signal"
+      ]
+    }
+  ]
+}
