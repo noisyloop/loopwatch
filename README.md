@@ -176,6 +176,16 @@ and are dropped from the combined score rather than guessed. More posts and a
 longer time span make every signal more reliable; see [Known
 limitations](#known-limitations) for the small-sample caveats.
 
+### Untrusted input
+
+The posts you collect are written by the accounts you are investigating, so
+loopwatch treats the input file as hostile. The loader rejects anything that is
+not a regular UTF-8 JSON file under 64 MiB, more than 200,000 posts, wrongly
+typed fields, negative or non-finite counts, and timestamps outside 1990–2100.
+Control, escape and bidi characters are stripped from the handle before it is
+printed. Rejections exit with status 2 and an `input error:` message rather
+than a traceback. Tests live in `tests/` (`python3 -m unittest discover -s tests`).
+
 ---
 
 ## Signals
