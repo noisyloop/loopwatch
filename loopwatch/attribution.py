@@ -56,7 +56,9 @@ _WEIGHTS = dict(
 _EMOJI_RE = re.compile(
     "[\U0001F300-\U0001FAFF\U00002600-\U000027BF\U0001F1E6-\U0001F1FF]"
 )
-_LIST_RE = re.compile(r"(^|\n)\s*([-*•]|\d+[.)])\s+")
+# Horizontal whitespace only: letting the indent match newlines makes the search
+# quadratic on newline-heavy text (a cheap denial of service from one post).
+_LIST_RE = re.compile(r"(?:^|\n)[ \t]*(?:[-*•]|\d+[.)])[ \t]+")
 
 
 def extract_features(acct: Account) -> dict[str, float]:

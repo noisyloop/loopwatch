@@ -10,11 +10,13 @@ import argparse
 import json
 import sys
 
-from .model import load_account, InputError
+from .model import load_account, InputError, sanitize_display
 from .scoring import score_account, DEFAULT_WINDOW_DAYS
 from .attribution import attribute
 from . import report
 from . import __version__
+
+MAX_WINDOW_DAYS = 3650
 
 
 def _build_parser() -> argparse.ArgumentParser:
@@ -49,14 +51,14 @@ def _build_parser() -> argparse.ArgumentParser:
 
 def _cmd_score(args) -> int:
     acct = load_account(args.path)
-    if args.window < 1:
-        print("error: --window must be >= 1", file=sys.stderr)
+    if not 1 <= args.window <= MAX_WINDOW_DAYS:
+        print(f"error: --window must be between 1 and {MAX_WINDOW_DAYS}", file=sys.stderr)
         return 2
     result = score_account(acct, window_days=args.window)
     if args.json:
         out = result.as_dict()
         out["attribution"] = attribute(acct)["distribution"]
-        print(json.dumps(out, indent=2))
+        print(json.dumps(out, indent=2, allow_nan=False))
     else:
         print(report.render_score(result, acct))
     return 0
@@ -65,7 +67,7 @@ def _cmd_score(args) -> int:
 def _cmd_attribute(args) -> int:
     acct = load_account(args.path)
     if args.json:
-        print(json.dumps(attribute(acct), indent=2))
+        print(json.dumps(attribute(acct), indent=2, allow_nan=False))
     else:
         print(report.render_attribution(acct))
     return 0
@@ -80,10 +82,10 @@ def main(argv=None) -> int:
         if args.command == "attribute":
             return _cmd_attribute(args)
     except InputError as exc:
-        print(f"input error: {exc}", file=sys.stderr)
+        print(f"input error: {sanitize_display(exc, 500)}", file=sys.stderr)
         return 2
     except FileNotFoundError:
-        print(f"error: no such file: {args.path}", file=sys.stderr)
+        print(f"error: no such file: {sanitize_display(args.path, 200)}", file=sys.stderr)
         return 2
     parser.error("unknown command")
     return 2
